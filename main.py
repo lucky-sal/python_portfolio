@@ -23,17 +23,17 @@ def payment():
 # def resources_transaction():
 
 while machine_state == 'on':
-    # TODO: 1. Prompt user by asking “What would you like? (espresso/latte/cappuccino):”
+    # 1. Prompt user by asking “What would you like? (espresso/latte/cappuccino):”
     user_selection = input("What would you like? (espresso/latte/cappuccino): ").lower()
 
-    # TODO: 3. Print report.
+    # 3. Print report.
     if user_selection == 'report':
         print(f'Water: {water_current}ml')
         print(f'Milk: {milk_current}ml')
         print(f'Coffee: {coffee_current}g')
         print(f'Money: ${money}')
 
-    # TODO: 4. Check resources sufficient?
+    # 4. Check resources sufficient?
     elif user_selection == 'espresso':
         if (water_current >= MENU['espresso']['ingredients']['water']
                 and coffee_current >= MENU['espresso']['ingredients']['coffee']):
@@ -59,15 +59,15 @@ while machine_state == 'on':
         else:
             print('not enough resources')
 
-    # TODO: 5. Process coins.
+    # 5. Process coins.
     if resources_ready:
         money_inserted = payment()
-        # TODO: 6. Check transaction successful?
+        # 6. Check transaction successful?
         if money_inserted >= MENU[user_selection]['cost']:
             change = round(money_inserted - MENU[user_selection]['cost'], 2)
             print(f'Here is your change: {change}')
 
-            # TODO: 7. Make Coffee.
+            # 7. Make Coffee.
             print(f'Here is your {user_selection} ☕. Enjoy!')
 
             water_current -= MENU[user_selection]['ingredients']['water']
@@ -84,6 +84,6 @@ while machine_state == 'on':
             money_inserted = 0
             resources_ready = False
 
-    # TODO: 2. Turn off the Coffee Machine by entering “off” to the prompt.
+    # 2. Turn off the Coffee Machine by entering “off” to the prompt.
     if user_selection == 'off':
         machine_state = 'off'
