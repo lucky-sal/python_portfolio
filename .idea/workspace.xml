@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1612d03-de78-4447-96cf-d1625708ffe3" name="Changes" comment="Correcting file paths and removing junk">
-      <change afterPath="$PROJECT_DIR$/quiz_game/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_game/question_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_game/quiz_brain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_chart/hirst_painting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_chart/hirst_painting_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_chart/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_chart/shape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_chart/spirograph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_chart/walk.py" afterDir="false" />
+    <list default="true" id="f1612d03-de78-4447-96cf-d1625708ffe3" name="Changes" comment="Adding new training projects">
+      <change afterPath="$PROJECT_DIR$/turtle_race/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,22 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.hirst_painting.executor": "Run",
-    "Python.hirst_painting_main.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.question_model.executor": "Run",
-    "Python.spirograph.executor": "Run",
-    "Python.walk.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/salba/Downloads/oop-coffee-machine-start",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.hirst_painting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hirst_painting_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spirograph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.walk.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/salba/Downloads/oop-coffee-machine-start&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Computer_Science\my_python_scripts\PyCharmProjects\Python Training\turtle_chart" />
@@ -152,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703707256184</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adding new training projects">
+      <option name="closed" value="true" />
+      <created>1704231151198</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704231151198</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,6 +160,7 @@
     <MESSAGE value="Reconfiguring paths" />
     <MESSAGE value="Adding two projects, coffee maker and coffe maker (OOP) to showcase the difference between standard programming and Object-Oriented programming." />
     <MESSAGE value="Correcting file paths and removing junk" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correcting file paths and removing junk" />
+    <MESSAGE value="Adding new training projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new training projects" />
   </component>
 </project>
