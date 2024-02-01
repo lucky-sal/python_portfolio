@@ -5,41 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1612d03-de78-4447-96cf-d1625708ffe3" name="Changes" comment="Adding new training projects">
-      <change afterPath="$PROJECT_DIR$/Matplotlib/2020 monthly avg precipitation around the world - imperial.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/2020-monthly-avg-temps-f.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/EV_market_share.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/ab_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/average_heights.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/bar_chart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/grammy_nominations/grammy_noms.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/grammy_nominations/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/grammy_nominations/solti_beyonce_grammys.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/line_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/line_chart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/lobster_dist.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/pie_chart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/plant_data_simplified.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/research_line_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/research_line_chart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/restaurant_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/scatter_plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/silly_ice_cream_shop/icecream_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/silly_ice_cream_shop/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/spotify_data_by_genres.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numpy/statistical_distributions/distributions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numpy/statistical_distributions/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numpy/statistical_distributions/survey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numpy/statistics/arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numpy/statistics/bakery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numpy/statistics/crunchy_munchy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numpy/statistics/examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numpy/statistics/river_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake_game/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake_game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake_game/score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake_game/snake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake_game/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake_game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake_game/score.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake_game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -85,6 +60,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.__init__.executor": "Run",
     "Python.ab_line.executor": "Run",
     "Python.arrays.executor": "Run",
     "Python.bakery.executor": "Run",
@@ -93,6 +69,7 @@
     "Python.distributions.executor": "Run",
     "Python.example.executor": "Run",
     "Python.examples.executor": "Run",
+    "Python.food.executor": "Run",
     "Python.hirst_painting.executor": "Run",
     "Python.hirst_painting_main.executor": "Run",
     "Python.histogram.executor": "Run",
@@ -103,13 +80,14 @@
     "Python.research_line_chart.executor": "Run",
     "Python.river_data.executor": "Run",
     "Python.scatter_plot.executor": "Run",
+    "Python.score.executor": "Run",
     "Python.snake.executor": "Run",
     "Python.spirograph.executor": "Run",
     "Python.survey.executor": "Run",
     "Python.walk.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "02012024__day21",
     "last_opened_file_path": "C:/Users/salba/Downloads/oop-coffee-machine-start",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -201,8 +179,27 @@
       <option name="project" value="LOCAL" />
       <updated>1704231151198</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adding new training projects">
+      <option name="closed" value="true" />
+      <created>1706722372987</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706722372987</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
