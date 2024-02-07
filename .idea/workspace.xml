@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1612d03-de78-4447-96cf-d1625708ffe3" name="Changes" comment="Adding new training projects">
+    <list default="true" id="f1612d03-de78-4447-96cf-d1625708ffe3" name="Changes" comment="venv">
+      <change afterPath="$PROJECT_DIR$/../Python Training/pong_game/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Training/pong_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Training/pong_game/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python Training/pong_game/score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake_game/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/food.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake_game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake_game/score.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake_game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,11 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$/../Python Training" value="testing_new_branch" />
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Python Training" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -45,6 +48,9 @@
         <option name="url" value="https://github.com/lucky-sal/python_portfolio.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -64,6 +70,7 @@
     "Python.ab_line.executor": "Run",
     "Python.arrays.executor": "Run",
     "Python.bakery.executor": "Run",
+    "Python.ball.executor": "Run",
     "Python.bar_chart.executor": "Run",
     "Python.crunchy_munchy.executor": "Run",
     "Python.distributions.executor": "Run",
@@ -87,8 +94,8 @@
     "Python.walk.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "02012024__day21",
-    "last_opened_file_path": "C:/Users/salba/Downloads/oop-coffee-machine-start",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Computer_Science/my_python_scripts/PyCharmProjects/python_portfolio",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -187,7 +194,31 @@
       <option name="project" value="LOCAL" />
       <updated>1706722372987</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adding new training projects">
+      <option name="closed" value="true" />
+      <created>1706815265413</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706815265413</updated>
+    </task>
+    <task id="LOCAL-00011" summary="venv">
+      <option name="closed" value="true" />
+      <created>1706815862885</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706815862885</updated>
+    </task>
+    <task id="LOCAL-00012" summary="venv">
+      <option name="closed" value="true" />
+      <created>1706816624088</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706816624088</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +239,7 @@
     <MESSAGE value="Adding two projects, coffee maker and coffe maker (OOP) to showcase the difference between standard programming and Object-Oriented programming." />
     <MESSAGE value="Correcting file paths and removing junk" />
     <MESSAGE value="Adding new training projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding new training projects" />
+    <MESSAGE value="venv" />
+    <option name="LAST_COMMIT_MESSAGE" value="venv" />
   </component>
 </project>
